@@ -22,9 +22,10 @@ This Power BI project provides a comprehensive analysis of a corporate workforce
 * **Departmental Impact:** The Production department accounts for the largest segment of the workforce.
 ## 🚀 How to View
 1. Download the `HR_Dashboard.pbix` file from this repository.
-2. Open it using **Power BI Desktop**.
+2. Open it using **Power BI Desktop**
+3. or Download the pdf and You can see it there.
 
 
 ---
 **Author:** [Fiseha Mehret]  
-**Let's Connect:** []
+**Let's Connect:** [https://www.upwork.com/freelancers/~014f0bfa676823cb4a?mp_source=share]
